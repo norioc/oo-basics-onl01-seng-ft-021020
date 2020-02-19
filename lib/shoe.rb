@@ -8,7 +8,8 @@ class Shoe
   end
   
   def cobble 
-    @condition
+    @condition = "new"
+    puts 
   
   
   
