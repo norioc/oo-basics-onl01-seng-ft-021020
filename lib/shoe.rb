@@ -3,9 +3,9 @@ class Shoe
     @brand = brand
   end
   
-  
-  
-  
+  def shoe.brand
+    
+  end
   
   
   
